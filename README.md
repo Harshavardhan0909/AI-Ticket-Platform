@@ -100,17 +100,6 @@ npm run build
 npm run preview
 ```
 
----
-
-# 📸 Screenshots
-
-> Add your project screenshots here.
-
-Example:
-
-```md
-![Dashboard Screenshot](./screenshots/dashboard.png)
-```
 
 ---
 
